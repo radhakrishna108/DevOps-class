@@ -1,15 +1,12 @@
 th9is k iusd c  l ew cjvlvnck
 
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/radhakrishna108/DevOps-class.git
+git push -u origin master
 
-isdc i sacncd jndncjnckd ciddnids cj
+git remote add origin https://github.com/radhakrishna108/DevOps-class.git
+git push -u origin master
 
-sdjbjfds biefbfwwe c cjgavcjka ckcbvad ciddnidswdbcdbcb
-
-jsdb 
-bdjc d
-bdbck
-
-uifeb uebibd ubcd cubc cudvjda 
-
-gwefbyebf
-ueuqbeuf
+jhsdbhd adbc
